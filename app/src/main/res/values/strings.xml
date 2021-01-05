@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherAppPupochka</string>
+    <string name="city_test">Moscow</string>
+    <string name="tag_today">today</string>
+    <string name="my_city">My city</string>
+    <string name="warning_no_internet_connection">No Internet conecrion</string>
+    <string name="tag_tomorrow_bbc">tomorrow</string>
+    <string name="tag_tomorrow_bbc">tomorrow</string>
+    <string name="tag_tomorrow">Tomorrow</string>
+    <string name="warning_slow_internet">Slow internet</string>
+    <string name="warning_slow_internet">Slow internet</string>
+</resources>
